@@ -1,0 +1,4 @@
+Cores
+
+Background #f8f8f9
+Menu-cabeçalho #72727d

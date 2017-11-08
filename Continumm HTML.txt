@@ -1,0 +1,166 @@
+<!-- Sobre o projeto -->
+	<section id="sobre_projeto">
+
+		<!-- Imagem de smartphone com deezer -->
+		<img src="Imagens/Deezer_apresentacao.png">
+		<!--Fim da Imagem de smartphone -->
+
+		<!-- Descrição do projeto -->
+		<img src="Imagens/Logo_apresentacao.png">
+			<p>A melhor maneira de escutar músicas.</p>
+			<p>Toda nossa programação é voltada para proporcionar</p>
+			<p>a melhor experiência musicas para você, ou seja, </p>
+			<p>quando abrir o Deezer, você se verá.</p>
+		<!-- Fim da descrição do projeto -->
+
+	</section>
+	<!-- Fim sobre o projeto -->
+
+	
+	<!--Barra de separação -->
+	<hr/>
+
+	<!-- Início da área sobre os recursos -->
+	<section id="recursos">
+
+		<!--Título da área -->
+		<div>
+			
+			<h1>RECURSOS</h1>
+
+		</div>
+		<!-- Fim do título da área -->
+
+		<!-- Vídeo do FLOW -->
+		<video src="Videos/Try Flow – only on Deezer.mp4" controls="controls"></video>
+
+		<!-- Início das descrições dos recursos -->
+		<div>
+			
+			<h2>FLOW</h2>
+				<p>Uma playlist de acordo com seus gostos,</p>
+				<p>montada por nós :-)</p>
+
+			<h2>Sem Internet</h2>
+				<p>Você pode baixar suas músicas para</p>
+				<p>ouvir quando e onde quiser,</p>
+				<p>mesmo sem internet.</p>
+
+			<h2>Coleção Própria</h2>
+				<p>Cria sua própria coleção entre mais</p>
+				<p>de 40 MILHÕES de músicas para</p>
+				<p>escutar.</p>
+
+		</div>
+		<!-- Fim das descrições dos recursos -->
+
+		<h2>e muito mais...</h2>
+
+		<!-- Início da listagem de recursos -->
+		<ul>
+			
+			<li>FLOW</li>
+			<li>Funcionamento Offline</li>
+			<li>Coleção prórpia</li>
+			<li>Letras de músicas, para cantar sozinho ou com amigos</li>
+			<li>Sugestões automáticas de músicas e playlists</li>
+			<li>Música no seu bolso, a qualquer hora</li>
+			<li>Mais de 40 MILHÔES de músicas para curtir</li>
+
+		</ul>
+		<!-- Fim da listagem de recursos -->
+
+	</section>
+	<!-- Fim da área sobre os recursos -->
+
+	<!-- Início das novidades -->
+	<section id="novidades">
+		
+		<!--Título da área -->
+		<div>
+			
+			<h1>NOVIDADES</h1>
+
+		</div>
+		<!-- Fim do título da área -->
+
+		<!-- Imagem das telas do app -->
+		<img src="Imagens/deezer-telas-android.png">
+
+		<!-- Texto explicando a maior novidade -->
+		<p>Uma nova interface, bonitinha e prática</p>
+		<p>para tornar a sua experiência a melhor!</p>
+
+		<!-- Início da apresentação de algumas imagens -->
+		<img src="Imagens/tela-3.PNG">
+
+		<img src="Imagens/tela-1.jpg">
+
+		<img src="Imagens/tela-2.jpg">
+
+		<img src="Imagens/tela-4.PNG">
+		<!-- Fim da apresentação de algumas imagens -->
+
+		<!-- Início da apresentação das multiplicidade do aplicativo -->
+		<div>
+			
+			<p>EM QUALQUER TELA, do seu pulso até sua TV!</p>
+
+			<!-- Início das imagens do aplicativo em diferentes telas -->
+			<img src="Imagens/telas.PNG">
+			<img src="Imagens/tela-carro.PNG">
+			<!-- Fim das imagens do aplicativo em diferentes telas -->
+
+		</div>
+		<!-- Fim da apresentação das multiplicidade do aplicativo -->
+
+	</section>
+	<!-- Fim das novidades -->	
+
+	<!-- Início do Newsletter -->
+	<section id="newsletter">
+		
+		<!--Título da área -->
+		<div>
+			
+			<h1>NOVIDADES</h1>
+
+		</div>
+		<!-- Fim do título da área -->
+
+		<p>Cadastre-se e receba novidades e alertas sobre músicas novas!</p>
+
+		<!--Início do formulário de cadastro -->
+		<form>
+			
+			<label>Nome</label>
+			<input type="text" name="nome">
+
+			<label>E-mail</label>
+			<input type="text" name="email">
+
+			<input type="submit" name="enviar">
+
+		</form>
+		<!--Fim do formulário de cadastro -->
+
+
+
+	</section>
+	<!-- Fim do Newsletter -->
+
+	<!--Barra de separação -->
+	<hr/>
+
+	<!-- Início da área de finalização (rodapé) -->
+	<footer>
+		
+		<img src="Imagens/Apresentacao.jpg">
+
+		<!-- Pergunta ao usuário se deseja voltar ao início -->
+		<div>
+			<a href="#apresentacao">VOLTAR AO INÍCIO</a>
+		</div>
+
+	</footer>
+	<!-- Fim da área de finalização (rodapé) -->
